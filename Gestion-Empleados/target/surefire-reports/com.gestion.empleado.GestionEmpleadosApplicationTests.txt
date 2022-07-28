@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.gestion.empleado.GestionEmpleadosApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.202 s <<< FAILURE! - in com.gestion.empleado.GestionEmpleadosApplicationTests
-com.gestion.empleado.GestionEmpleadosApplicationTests  Time elapsed: 0.2 s  <<< ERROR!
-java.lang.IllegalStateException: Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [com.gestion.empleado.AdminsmanagerApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\Lea\Desktop\proyectos\Gestion-Empleados\target\classes\com\gestion\empleado\AdminsmanagerApplication.class], Generic bean: class [com.gestion.empleado.GestionEmpleadosApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\Lea\Desktop\proyectos\Gestion-Empleados\target\classes\com\gestion\empleado\GestionEmpleadosApplication.class]]
-
